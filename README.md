@@ -21,11 +21,12 @@ The goal of this repo is to practice end-to-end ML development — from data exp
 - models/    : saved models
 
 ## Setup Instructions
-Clone the repository and set up the environment:
 
-```bash
-git clone https://github.com/sidmahapatra13/ML-Projects.git
-cd ML-Projects
-python3 -m venv env
-source env/bin/activate
-pip install -r requirements.txt
+1. Click **Use this template** on GitHub
+2. Create a new repository
+3. Clone it locally
+4. Create virtual environment:
+   ```bash
+   python3 -m venv env
+   source env/bin/activate
+   pip install -r requirements.txt
